@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/:year/:month/:day/:title
+title: About
+permalink: /about/
 ---
 
 I'm a Master's student in Robotics at [University of Maryland College Park](http://www.umd.edu/). 
