@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Systems Science @ IIT Jodhpur"
+date: 2014-04-30
+---
+
 Congratulations to everyone who have been selected in JEE Advanced examination.Not long ago ,I was in a dilemma as which IIT to choose which branch should I prefer and so on.. Today I am a proud pioneer batch student of Systems Science IIT Jodhpur.I would like to share some of my thoughts and valuable experiences regading Systems Science @ IITJ.
 
 B.Tech. Systems Science Program is to provide students foundation in basic sciences and engineering and in mathematical tools to make them competent to solve complex problems.It gives you the freedom and flexibility in choosing your specialization i.e., major in CSE/EE/ME depending on the interests you develop during the course of study and not simulate interest in any particular branch because others are doing it.(I'm sure you are not gullible)
