@@ -12,9 +12,9 @@ Explore Seward
 
 Sightseeing in Kenai Fjords
 
-<img src="images/Scenicpic1.jpeg" width="450" height="250">
+<img src="./images/Scenicpic1.jpg" width="450" height="250">
 
-<img src="images/SeewardBoatHarbor.jpg" width="250" height="400">
+<img src="./images/SeewardBoatHarbor.jpg" width="250" height="400">
 
 
 Boat tour in Seward that will take you out into Kenai Fjords National Park. Fjords are massive waterways that are home to some of Alaska’s greatest sea life, including humpback and orca whales, seabirds like puffins, and plenty of otters.
