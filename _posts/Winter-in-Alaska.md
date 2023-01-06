@@ -40,9 +40,9 @@ Ice Museum
 Northern Lights
 
 <p align="center">
-  <img alt="Light" src="images/Auroralights1.jpg" width="400" height="250">
+  <img src="images/Auroralights1.jpg" width="400" height="250">
 &nbsp; &nbsp;
-  <img alt="Dark" src="images/Auroralights2.jpg" width="400" height="250">
+  <img src="images/Auroralights2.jpg" width="400" height="250">
 </p>
 
 <img src="images/Auroralightsme.jpg" width="400" height="250">
