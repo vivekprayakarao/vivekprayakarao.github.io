@@ -20,8 +20,6 @@ Sightseeing in Kenai Fjords
 Boat tour in Seward that will take you out into Kenai Fjords National Park. Fjords are massive waterways that are home to some of Alaska’s greatest sea life, including humpback and orca whales, seabirds like puffins, and plenty of otters.
 
 
-
-
 Exploring Fairbanks
 
 <img src="images/DowntownFairbanks.jpg" width="250" height="400">
@@ -50,6 +48,9 @@ Northern Lights
 
 Dog Sledding
 
+Dog-mushing experience outside of Fairbanks is a must do activity in Fairbanks. Taking a trail ride in North Pole involving a dog sled pulled by a team of Alaskan Huskies was the most amazing experience of this trip
+
+<img src="images/Dogsledding.gif" width="200" height="450" />
 
 
 Food and Restaurants
