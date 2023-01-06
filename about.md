@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a Master's student in Robotics at [University of Maryland College Park](http://www.umd.edu/). 
+## Interests
 
-## Research Interests
-
-* Aerial Robotics
-* Robot Learning
-* Collaborative Robotics
+* Self Driving Vehicles
+* AI Safety
+* Simulation
 
 
 ## Education
@@ -20,6 +18,4 @@ I'm a Master's student in Robotics at [University of Maryland College Park](http
 
 ## Contact me
 
-[pvivek@umd.edu](Mail to:pvivek@umd.edu) or [vivek.iitj@gmail.com](Mail to:vivek.iitj@gmail.com)
-
-Last updated: 2016/07/14
+[vivek.iitj@gmail.com](Mail to:vivek.iitj@gmail.com)
